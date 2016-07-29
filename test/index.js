@@ -6,5 +6,5 @@ request
     .attach('image', 'test/receipt.jpg')
     .end(function(err, res) {
         if (err) throw err;
-        console.log(res.body);
+        console.log(res.body); // eslint-disable-line no-console
     });

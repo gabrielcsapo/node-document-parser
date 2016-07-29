@@ -23,5 +23,5 @@ app.post('/api/parse', multipart(), function(req, res) {
 });
 
 app.listen(3000, function() {
-    console.log('node-document-parser listening at http://localhost:3000');
+    console.log('node-document-parser listening at http://localhost:3000');  // eslint-disable-line no-console
 });
