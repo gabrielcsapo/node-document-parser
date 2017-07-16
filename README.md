@@ -1,5 +1,7 @@
 # node-document-parser
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/gabrielcsapo/node-document-parser.svg)](https://greenkeeper.io/)
+
 > a library / server for parsing documents
 
 [![Npm Version](https://img.shields.io/npm/v/node-document-parser.svg)](https://www.npmjs.com/package/node-document-parser)
